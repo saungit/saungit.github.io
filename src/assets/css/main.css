@@ -1,0 +1,8 @@
+.title {
+  display: flex;
+  right: 8px;
+  transform: rotate3d(13,6.3,5.5,-11deg);
+  filter: grayscale(.8);
+  top: 8px
+}
+
